@@ -8,6 +8,5 @@ def main():
     print('El promedio es:', promedio)
     
 
-
 if __name__ == '__main__':
     main()

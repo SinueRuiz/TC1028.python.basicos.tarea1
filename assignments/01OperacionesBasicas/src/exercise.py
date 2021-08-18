@@ -10,7 +10,6 @@ def main():
     print('Multiplicación:', Multiplicación)
  
  
- 
 
 
 
